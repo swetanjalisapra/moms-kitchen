@@ -17,5 +17,18 @@ A responsive website which will allow multiple vendors working from home to crea
 ## **Interfaces**
 ![frontpage](/images/frontpage.jpeg)
 1. **ADMIN**
-2. **CUSTOMER**
-3. **VENDOR**
+
+![adminlogin.jpeg](/images/adminlogin.jpeg)
+![adminpage.jpeg](/images/adminpage.jpeg)
+
+2. **VENDOR**
+
+![kitchenregister.jpeg](/images/kitchenregister.jpeg)
+
+3. **CUSTOMER**
+
+![menu1.jpeg](/images/menu2.jpeg)
+![menu2.jpeg](/images/menu2.jpeg)
+![order.jpeg](/images/order.jpeg)
+![addtocart.jpeg](/images/addtocart.jpeg)
+
